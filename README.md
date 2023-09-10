@@ -1,4 +1,4 @@
-# Max-Temperature-Forecast
+# Kogi and Abuja Max-Temperature-Forecast
 Basic Data Exploration using Arima and Pandas to forecast the maximum temperature of Kogi and Abuja - A Python project using arima and pandas to explore data on forecast the maximum temperature of Kogi and Abuja.
 
 ![image](https://github.com/Bukson01/Max-Temperature-Forecast-/assets/81016410/e7ff3d59-8a48-4e80-8968-6e7ceb73aa61)
@@ -7,7 +7,7 @@ Basic Data Exploration using Arima and Pandas to forecast the maximum temperatur
 # Abuja
 
 # About Dataset
-The data provides a trend in maximum temperatures of the local governments areas considered (Lokoja and Abuja) on a monthly basis for the past three decades.
+The data provides a trend in maximum temperatures of the states considered (Kogi and Abuja in Nigeria) on a monthly basis for the past three decades.
 
 # Project Overview
 
@@ -18,10 +18,10 @@ You can open 'Abj_T(max)_Project.ipynb and Kg_T(max)_Project.ipynb' using Jupyte
 Requirements
 *Language: Python 3.6 or above *Libraries: arima, pandas, numpy, time *platform: Jupyter notebook
 
-Project Data
+#Project Data
 Data - this is a folder that contains the dataset ABJ_MAX_TEMP.xlsx and KG_MAX_TEMP.xlsx
-ABJ_MAX_TEMP.xlsx - this file is the dataset containing the maximum temperatures on a monthly basis in Abuja local government area for past 3 decades as provided by the NiMet.
-KG_MAX_TEMP.xlsx - this file is the dataset containing the maximum temperatures on a monthly basis in Lokoja local government area for past 3 decades as provided by the NiMet.
+ABJ_MAX_TEMP.xlsx - this file is the dataset containing the maximum temperatures on a monthly basis in Abuja for past 3 decades as provided by the NiMet.
+KG_MAX_TEMP.xlsx - this file is the dataset containing the maximum temperatures on a monthly basis in Kogi for past 3 decades as provided by the NiMet.
 
 # Built with    
 Python 3.7.2 - The language used to develop this.
