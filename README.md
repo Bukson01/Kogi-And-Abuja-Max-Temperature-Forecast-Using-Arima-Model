@@ -34,4 +34,4 @@ Author
 
 # Acknowledgement
 pandas docs - pandas documentation was immensely helpful in understanding the implemention of pandas methods used in this project.
-NiMet -  for providing us with the data used.
+NiMet - for providing us with the data used.
