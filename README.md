@@ -30,7 +30,7 @@ pandas - One of the libraries used for this.
 numpy - One of the libraries used for this.
 
 Author
-@Bukason - Sole author for this program. Mentioned all the help received in 'Acknowledgements' section.
+@Bukson01 - Sole author for this program. Mentioned all the help received in 'Acknowledgements' section.
 
 # Acknowledgement
 pandas docs - pandas documentation was immensely helpful in understanding the implemention of pandas methods used in this project.
